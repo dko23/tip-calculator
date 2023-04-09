@@ -1,0 +1,20 @@
+body{
+    font-family: 'Shantell Sans', cursive;
+}
+.container{
+    border: 2px solid black;
+    width: 300px;
+}
+.resturant{
+    
+    display: flex; 
+}
+
+.burger{
+    height: 40px;
+    width: 40px;
+  
+}
+#bill{
+   width: 100px;
+}
